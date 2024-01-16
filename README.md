@@ -1,7 +1,12 @@
-https://tr.pinterest.com/pin/784963410081018229/
+
+
+
+
+[My IBM ThinkPad s30_](https://github.com/astrolil0/astrolil0/assets/113148482/d807cd74-4288-4042-b3a7-7a6bf5a15a08)
 
 <!--
-**astrolil0/astrolil0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**astrolil0/astrolil0** is a ✨ _special_ ✨ repo![My IBM ThinkPad s30_](https://github.com/astrolil0/astrolil0/assets/113148482/d807cd74-4288-4042-b3a7-7a6bf5a15a08)
+sitory because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
