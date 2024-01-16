@@ -1,5 +1,5 @@
 
-(https://github.com/astrolil0/astrolil0/assets/113148482/d807cd74-4288-4042-b3a7-7a6bf5a15a08)
+https://github.com/astrolil0/astrolil0/assets/113148482/d807cd74-4288-4042-b3a7-7a6bf5a15a08
 
 
 
