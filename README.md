@@ -1,5 +1,6 @@
 <img width="516" alt="Screen Shot 2024-01-16 at 4 53 07 PM" src="https://github.com/astrolil0/astrolil0/assets/113148482/adeb0aa7-0dc1-458c-9698-af6a6f28833b">    
-![My IBM ThinkPad s30_](https://github.com/astrolil0/astrolil0/assets/113148482/75bb60d8-025f-414e-b923-56bbdc39ae7e)
+![My IBM ThinkPad s30_](https://github.com/astrolil0/astrolil0/assets/113148482/75bb60d8-025f-414e-b923-56bbdc39ae7e
+![Thinkpad, Metropolis, and Arch, a match made in heaven!](https://github.com/astrolil0/astrolil0/assets/113148482/bd889c05-fa61-49f9-a4cd-34cbcf1ab64d)
 
 <!--
 
