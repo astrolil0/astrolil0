@@ -1,10 +1,9 @@
 
-![Thinkpad, Metropolis, and Arch, a match made in heaven!](https://github.com/astrolil0/astrolil0/assets/113148482/bd889c05-fa61-49f9-a4cd-34cbcf1ab64d)
-
 <!--
 **astrolil0/astrolil0** is a ✨ _special_ ✨ repo
 sitory because its `README.md` (this file) appears on your GitHub profile.
 ![Thinkpad, Metropolis, and Arch, a match made in heaven!](https://github.com/astrolil0/astrolil0/assets/113148482/976e4755-5dff-450e-8d6f-44bafd639998)
+![Thinkpad, Metropolis, and Arch, a match made in heaven!](https://github.com/astrolil0/astrolil0/assets/113148482/bd889c05-fa61-49f9-a4cd-34cbcf1ab64d)
 
 ![My IBM ThinkPad s30_](https://github.com/astrolil0/astrolil0/assets/113148482/75bb60d8-025f-414e-b923-56bbdc39ae7e)
 Here are some ideas to get you started:
