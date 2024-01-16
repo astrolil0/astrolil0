@@ -1,6 +1,7 @@
 
 
 
+![My IBM ThinkPad s30_](https://github.com/astrolil0/astrolil0/assets/113148482/3f7fe3e3-a781-4d27-a740-be82eb5abcb5)
 
 
 
