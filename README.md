@@ -1,12 +1,12 @@
 
 
-![My IBM ThinkPad s30_](https://github.com/astrolil0/astrolil0/assets/113148482/75bb60d8-025f-414e-b923-56bbdc39ae7e)
-
 
 <!--
 **astrolil0/astrolil0** is a ✨ _special_ ✨ repo
 sitory because its `README.md` (this file) appears on your GitHub profile.
 ![Thinkpad, Metropolis, and Arch, a match made in heaven!](https://github.com/astrolil0/astrolil0/assets/113148482/976e4755-5dff-450e-8d6f-44bafd639998)
+
+![My IBM ThinkPad s30_](https://github.com/astrolil0/astrolil0/assets/113148482/75bb60d8-025f-414e-b923-56bbdc39ae7e)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
