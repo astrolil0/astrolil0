@@ -1,5 +1,7 @@
+<img width="516" alt="Screen Shot 2024-01-16 at 4 53 07 PM" src="https://github.com/astrolil0/astrolil0/assets/113148482/adeb0aa7-0dc1-458c-9698-af6a6f28833b">
 
 <!--
+
 **astrolil0/astrolil0** is a ✨ _special_ ✨ repo
 sitory because its `README.md` (this file) appears on your GitHub profile.
 ![Thinkpad, Metropolis, and Arch, a match made in heaven!](https://github.com/astrolil0/astrolil0/assets/113148482/976e4755-5dff-450e-8d6f-44bafd639998)
