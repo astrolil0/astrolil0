@@ -1,6 +1,4 @@
 
-![Thinkpad, Metropolis, and Arch, a match made in heaven!](https://github.com/astrolil0/astrolil0/assets/113148482/2fb8bf16-f089-4b4e-a926-b1cce840eaaa)
-
 
 <!--
 **astrolil0/astrolil0** is a ✨ _special_ ✨ repo
