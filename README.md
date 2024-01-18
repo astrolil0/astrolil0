@@ -1,5 +1,4 @@
-[Ekran görüntüsü 2024-01-18 234333](https://github.com/astrolil0/astrolil0/assets/113148482/643a6c44-e8f1-4ded-b8a4-8a1af1dcda64)
-7aaaa079f0)
+![Ekran görüntüsü 2024-01-18 234333](https://github.com/astrolil0/astrolil0/assets/113148482/35162929-feb0-4909-8fd4-473559c72711)
 
 <!--![Uploading Ekran görüntüsü 2024-01-19 001239.png…]()
 
