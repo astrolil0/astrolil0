@@ -1,4 +1,8 @@
-<!--
+![Ekran görüntüsü 2024-01-19 001239](https://github.com/astrolil0/astrolil0/assets/113148482/0e0752f5-ae45-4ab8-8bc5-c87aaaa079f0)
+
+<!--![Uploading Ekran görüntüsü 2024-01-19 001239.png…]()
+
+![Uploading Ekran görüntüsü 2024-01-19 001239.png…]()
 
 **astrolil0/astrolil0** is a ✨ _special_ ✨ repo
 sitory because its `README.md` (this file) appears on your GitHub profile.
