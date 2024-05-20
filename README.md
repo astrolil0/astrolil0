@@ -1,4 +1,5 @@
 
+![Ekran görüntüsü 2024-05-20 234912](https://github.com/astrolil0/astrolil0/assets/113148482/5c588b5d-2690-4a3c-915c-f5d54264050f)
 
 
 ![Untitled](https://github.com/astrolil0/astrolil0/assets/113148482/2008ffdb-0a97-473a-92bd-4b26fd49ed30)
