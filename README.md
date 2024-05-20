@@ -1,6 +1,4 @@
-
-
-![Sureyya_hanim](https://github.com/astrolil0/astrolil0/assets/113148482/425f511c-3746-44e1-b06f-9f1c33edb146)
+![Uploading Sureyya_hanim (1).png…]()
 
 
 
